@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Sabbir%20Ahmed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Instructor%20%7C%20Problem%20Solver&descAlignY=60&descSize=20" width="100%" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D63CF0&center=true&vCenter=true&width=720&height=50&lines=Building+scalable+web+applications+with+modern+stacks;MERN+%7C+Next.js+%7C+TypeScript+%7C+Supabase;Fast+learner+who+thrives+on+real-world+problems;Currently+exploring+LangChain%2C+LangGraph+%26+Docker" alt="Typing SVG" />
+  <a href="https://sabbirprofile.netlify.app/">
+    <img src="./assets/portfolio-banner.png" alt="Md. Sabbir Ahmed - Portfolio" width="100%" />
   </a>
 </div>
 
