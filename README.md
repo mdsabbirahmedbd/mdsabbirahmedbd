@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Web Developer** and **coding instructor** based in Dhaka, Bangladesh. I build scalable, production-ready web applications and enjoy turning real-world problems into clean, maintainable software.
+I'm a **Full-Stack Web Developer**  I build scalable, production-ready web applications and enjoy turning real-world problems into clean, maintainable software.
 
 - 🔭 Building with the **MERN stack**, **Next.js**, **TypeScript** and **Supabase**
 - 🌱 Currently learning **LangChain**, **LangGraph** and **Docker**
